@@ -1,0 +1,11 @@
+{
+  "name": "SurSangam Singing & Karaoke Studio",
+  "description": "Interactive singing and karaoke studio to load audio/video songs, explore built-in tracks, search or request songs with lyrics, and record vocal performances with live audio effects.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
